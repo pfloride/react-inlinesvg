@@ -23,9 +23,6 @@
     "gulp-rename": "~1.2.0",
     "cors": "~2.2.0"
   },
-  "peerDependencies": {
-    "react": "*"
-  },
   "scripts": {
     "prepublish": "gulp build",
     "test": "gulp test"
